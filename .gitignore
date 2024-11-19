@@ -1,1 +1,3 @@
 *.cbz
+testdata
+__pycache__
